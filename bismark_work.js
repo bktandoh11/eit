@@ -1,3 +1,9 @@
+/*const program = ['IT', 'computer_science', 'business'];
+
+for (let i = 0; i < program.length; i++) {
+  console.log(program[i]);
+}*/
+
 let print = console.log;
 /*Question 1 */
 function findLargest(arr) {
